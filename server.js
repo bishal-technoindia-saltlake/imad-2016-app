@@ -41,31 +41,15 @@ var articles={
 },
     articleTwo:{
      title: "Article Two|Bishal Sharma",
-    heading: "Article Two",
+    heading: "Article ",
     date: "November 30th, 2016",
     content:`
     <h4>
-        This is my second article.
+        This is my first article.
     </h4>
-    
-    <p>
-    I want to see how my second article runs.
-   </p>
-},
-  articleThree:{
-     title: "Article Two|Bishal Sharma",
-    heading: "Article Two",
-    date: "November 30th, 2016",
-    content:`
-    <h4>
-        This is my second article.
-    </h4>
-    
-    <p>
-    I want to see how my second article runs.
-   
- </p>
-    
+     <p>
+    I want to see how my first article runs.
+    </p>`
 },
 };
     
