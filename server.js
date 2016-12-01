@@ -53,15 +53,15 @@ var articles={
 },
 
     articleThree:{
-     title: "Article Two|Bishal Sharma",
+     title: "Article Three|Bishal Sharma",
     heading: "Article ",
     date: "November 30th, 2016",
     content:`
     <h4>
-        This is my second article.
+        This is my third article.
     </h4>
      <p>
-    I want to see how my second article runs.
+    I want to see how my third article runs.
     </p>`
 },
 };
