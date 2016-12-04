@@ -82,18 +82,18 @@ function createTemplate(data){
                 <link href="/ui/style.css" rel="stylesheet" />
             </head>
             <body>
-                 <div class="container">     
+                <div class="container">     
                 <div>
                 <a href="/">HOME</a>
                 </div>
                 <h2>
-                ${heading};
+                     ${heading};
                 </h2>
                 <div>
                     ${date};
                 </div> 
-                ${content};
-         </div>
+                    ${content};
+                </div>
          </div>
             </body>
             
