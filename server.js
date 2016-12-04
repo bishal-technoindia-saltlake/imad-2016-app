@@ -94,6 +94,7 @@ function createTemplate(data){
                 </div> 
                 ${content};
          </div>
+         </div>
             </body>
             
         </html>
